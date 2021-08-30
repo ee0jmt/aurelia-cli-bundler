@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/menu/menu.js","../src/menu/menu.html"],"names":["Menu","message"],"mappings":";;;;;;MAAaA,I;SACXC,O,GAAU,c;;;;;ACDZ","file":"menu/menu.js","sourcesContent":["export class Menu {\n  message = 'Hello World!';\n}\n","<template>\n  <h1>${message}</h1>\n</template>\n"]}
